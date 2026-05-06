@@ -1,4 +1,10 @@
-# Customer Churn Analysis
+## How to Run
+1. Clone the repository
+2. Install requirements: pip install pandas numpy matplotlib seaborn scikit-learn
+3. Open churn_analysis.ipynb in Jupyter
+4. Run all cells
+5.
+6. # Customer Churn Analysis
 
 ## Project Overview
 Analysis of telecom customer churn using Python and Power BI.
