@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Results
 | Model | Accuracy |
-
+|-------|----------|
 | Logistic Regression | 81.47% |
 
 ## Dashboard
